@@ -1,0 +1,14 @@
+Source: theme-default-settings
+Section: base
+Priority: optional
+Maintainer: Robert Irvin <android_808@hotmail.com>
+Uploaders: Robert Irvin <android_808@hotmail.com>
+Build-Depends: debhelper
+Standards-Version: 3.7.3
+
+Package: theme-default-settings
+Section: base
+Architecture: all
+Provides: theme-config
+Description: Define system default theme.
+
